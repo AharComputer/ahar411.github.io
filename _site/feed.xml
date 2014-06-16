@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
+    <title>AHAR's Blog</title>
+    <description>A Jekyll Test Site.</description>
+    <link>http://ahar411.github.io//</link>
+    <atom:link href="http://ahar411.github.io//feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Welcome to Jekyll!</title>
@@ -23,8 +23,24 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 
 </description>
         <pubDate>Mon, 16 Jun 2014 11:11:29 +0000</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2014/06/16/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2014/06/16/welcome-to-jekyll/</guid>
+        <link>http://ahar411.github.io//jekyll/update/2014/06/16/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://ahar411.github.io//jekyll/update/2014/06/16/welcome-to-jekyll/</guid>
+      </item>
+    
+      <item>
+        <title>My first post</title>
+        <description>&lt;p&gt;Im trying out jekyll and trying to jost it on github &lt;/p&gt;
+
+&lt;p&gt;This is how we did it &lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;bash&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;jekyll new &lt;span class=&quot;s2&quot;&gt;&amp;quot;site name&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;cd&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;site name&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;jekyll serve --watch&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+</description>
+        <pubDate>Mon, 16 Jun 2014 11:11:29 +0000</pubDate>
+        <link>http://ahar411.github.io//2014/06/16/MY-FIRST-POST/</link>
+        <guid isPermaLink="true">http://ahar411.github.io//2014/06/16/MY-FIRST-POST/</guid>
       </item>
     
   </channel>
