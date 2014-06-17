@@ -4,6 +4,7 @@ email: ahar411@gmail.com
 description: "A Jekyll Test Site."
 baseurl: ""
 url: "http://ahar411.github.io/"
+username: "ahar411" 
 
 # Build settings
 markdown: kramdown
