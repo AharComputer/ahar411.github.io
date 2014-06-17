@@ -4,10 +4,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Welcome to Jekyll!</title>
+    <title>how to post on a jekyll site</title>
     <meta name="viewport" content="width=device-width">
     <meta name="description" content="A Jekyll Test Site.">
-    <link rel="canonical" href="http://ahar411.github.io//jekyll/update/2014/06/16/welcome-to-jekyll/">
+    <link rel="canonical" href="http://ahar411.github.io//2014/06/17/how-to-post/">
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="/css/main.css">
@@ -56,24 +56,52 @@
       <div class="post">
 
   <header class="post-header">
-    <h1>Welcome to Jekyll!</h1>
-    <p class="meta">Jun 16, 2014</p>
+    <h1>how to post on a jekyll site</h1>
+    <p class="meta">Jun 17, 2014</p>
   </header>
 
   <article class="post-content">
-  <p>You’ll find this post in your <code>_posts</code> directory - edit this post and re-build (or run with the <code>-w</code> switch) to see your changes!
-To add new posts, simply add a file in the <code>_posts</code> directory that follows the convention: YYYY-MM-DD-name-of-post.ext.</p>
+  <ol>
+  <li>
+    <p>make a new file following this format yyyy-mm-dd-post name.markdown under _posts</p>
+  </li>
+  <li>
+    <p>start it with </p>
 
-<p>Jekyll also offers powerful support for code snippets:</p>
+    <pre><code> ---
+ layout: post
+ title:  "Welcome to Jekyll!"
+ date:   2014-06-16 11:11:29
+ categories: jekyll update
+ ---
 
-<div class="highlight"><pre><code class="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">&quot;Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">&quot;</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">&#39;Tom&#39;</span><span class="p">)</span>
-<span class="c1">#=&gt; prints &#39;Hi, Tom&#39; to STDOUT.</span></code></pre></div>
+ my new post
 
-<p>Check out the <a href="http://jekyllrb.com">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>.</p>
+    
+ {% highlight ruby %}
+ write code like this
+ {% endhighlight %}
+</code></pre>
+  </li>
+  <li>
+    <p>turn the server on using <code>jekyll serve</code></p>
+  </li>
+  <li>
+    <p>check your results at <a href="http://localhost:4000/">http://localhost:4000/</a></p>
+  </li>
+  <li>
+    <p>if you like publish it on gitusing the following steps</p>
 
+    <pre><code> $ git status
+ $ git add .
+ $ git commit
+ $ git push
+</code></pre>
+  </li>
+  <li>
+    <p>make sure it got published correctly on <a href="http://ahar.sa/">http://ahar.sa/</a></p>
+  </li>
+</ol>
 
   </article>
 
