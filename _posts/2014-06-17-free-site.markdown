@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "How to get a free website"
+date:   2014-06-17 15:24:29
+---
+
+1. then add a new master dns zone
+
+1. next go to <https://nic.sa/> and register 
+
+1. then ask for a domain from there 
+
+1. link it with `ns11.cloudns.net`
+
+1. now register at <http://github.com/>
+
+1. make a new repo called "your username".github.io this is where you put your website files
+
+1. in your dns add a CNAME leading to you github page
+
+1. do the same in your local site 
+
+---
+to mail forward go to you dns and click mailforwarding 
+
+and pick the email
+
+and add the mx files to you dns 

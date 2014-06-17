@@ -7,6 +7,47 @@
     <atom:link href="http://ahar411.github.io//feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>How to get a free website</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;then add a new master dns zone&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;next go to &lt;a href=&quot;https://nic.sa/&quot;&gt;https://nic.sa/&lt;/a&gt; and register &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;then ask for a domain from there &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;link it with &lt;code&gt;ns11.cloudns.net&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;now register at &lt;a href=&quot;http://github.com/&quot;&gt;http://github.com/&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;make a new repo called “your username”.github.io this is where you put your website files&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;in your dns add a CNAME leading to you github page&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;do the same in your local site &lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;to mail forward go to you dns and click mailforwarding &lt;/p&gt;
+
+&lt;p&gt;and pick the email&lt;/p&gt;
+
+&lt;p&gt;and add the mx files to you dns &lt;/p&gt;
+</description>
+        <pubDate>Tue, 17 Jun 2014 15:24:29 +0000</pubDate>
+        <link>http://ahar411.github.io//2014/06/17/free-site/</link>
+        <guid isPermaLink="true">http://ahar411.github.io//2014/06/17/free-site/</guid>
+      </item>
+    
+      <item>
         <title>how to post on a jekyll site</title>
         <description>&lt;ol&gt;
   &lt;li&gt;
