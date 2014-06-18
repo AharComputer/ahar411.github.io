@@ -1,7 +1,7 @@
 # Site settings
-title: AHAR's Blog
-email: ahar411@gmail.com
-description: "A Jekyll Test Site."
+title: Ahar's Blog
+email: abdullah@ahar.sa
+description: "a small dev blog"
 baseurl: ""
 url: "http://ahar411.github.io/"
 username: "ahar411" 
@@ -9,3 +9,4 @@ username: "ahar411"
 # Build settings
 markdown: kramdown
 permalink: pretty
+ 
