@@ -4,6 +4,8 @@ title:  "How to get a free website"
 date:   2014-06-17 15:24:29
 ---
 
+1. register at <http://cloudns.net/>
+
 1. then add a new master dns zone
 
 1. next go to <https://nic.sa/> and register 
