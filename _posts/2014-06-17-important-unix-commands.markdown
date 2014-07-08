@@ -20,6 +20,7 @@ cd /etc
 cd etc
 cd ./etc
 cd ../etc
+cd -
 
 mkdir dir
 rmdir dir
