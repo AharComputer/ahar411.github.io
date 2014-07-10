@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "python course progress"
-date:   2014-07-8 02:11:29
+date:   2014-07-10 12:11:29
 ---
 
 hello i wanted to show my progress in the python course i finished the advanced topics yay
