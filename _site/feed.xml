@@ -7,15 +7,49 @@
     <atom:link href="http://ahar411.github.io//feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>fixing a grandstream telephone thing</title>
+        <description>&lt;p&gt;what we did today is configure a grand stream telephone system which will let you forward calls and even recored voice mail and forward it to an email
+here is what we did&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;fixed ip address we went into its configuration and made it request the ip &lt;code&gt;10.10.10.10&lt;/code&gt; so now it has a static ip &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;then we made it work with ntp time&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;then configured the email so it can send the voice mail&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Sun, 13 Jul 2014 13:07:29 +0000</pubDate>
+        <link>http://ahar411.github.io//2014/07/13/setting-up-telephone/</link>
+        <guid isPermaLink="true">http://ahar411.github.io//2014/07/13/setting-up-telephone/</guid>
+      </item>
+    
+      <item>
+        <title>python course progress</title>
+        <description>&lt;p&gt;hello i wanted to show my progress in the python course i finished the advanced topics yay&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://ahar411.github.io//assets/advanced-topics.png&quot; alt=&quot;advanced topics&quot; title=&quot;advanced topics&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 10 Jul 2014 12:11:29 +0000</pubDate>
+        <link>http://ahar411.github.io//2014/07/10/python-course-progress-adv/</link>
+        <guid isPermaLink="true">http://ahar411.github.io//2014/07/10/python-course-progress-adv/</guid>
+      </item>
+    
+      <item>
         <title>python course progress</title>
         <description>&lt;p&gt;hello i wanted to show my progress in the python course i finished the exam statistics part&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;ahar411.github.io/assets/download.jpg&quot; alt=&quot;exam statistics&quot; title=&quot;exam statistics&quot; /&gt;
-exam statistics!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://ahar411.github.io//assets/download.jpg&quot; alt=&quot;exam statistics&quot; title=&quot;exam statistics&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;exam statistics!&lt;/p&gt;
 </description>
-        <pubDate>Tue, 08 Jul 2014 11:11:29 +0000</pubDate>
-        <link>http://ahar411.github.io//2014/07/08/python-course-progress/</link>
-        <guid isPermaLink="true">http://ahar411.github.io//2014/07/08/python-course-progress/</guid>
+        <pubDate>Thu, 10 Jul 2014 11:11:29 +0000</pubDate>
+        <link>http://ahar411.github.io//2014/07/10/python-course-progress/</link>
+        <guid isPermaLink="true">http://ahar411.github.io//2014/07/10/python-course-progress/</guid>
       </item>
     
       <item>
