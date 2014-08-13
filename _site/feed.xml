@@ -7,6 +7,19 @@
     <atom:link href="http://ahar411.github.io//feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>python course progress files and classes</title>
+        <description>&lt;p&gt;hello i wanted to show my progress in the python course i finished the course and these are the last two badges yay&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://ahar411.github.io//assets/classes.png&quot; alt=&quot;classes&quot; title=&quot;classes&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://ahar411.github.io//assets/file.png&quot; alt=&quot;file&quot; title=&quot;file&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 17 Jul 2014 13:42:29 +0000</pubDate>
+        <link>http://ahar411.github.io//2014/07/17/python-course-progress-files-classes/</link>
+        <guid isPermaLink="true">http://ahar411.github.io//2014/07/17/python-course-progress-files-classes/</guid>
+      </item>
+    
+      <item>
         <title>fixing a grandstream telephone thing</title>
         <description>&lt;p&gt;what we did today is configure a grand stream telephone system which will let you forward calls and even recored voice mail and forward it to an email
 here is what we did&lt;/p&gt;
@@ -20,6 +33,27 @@ here is what we did&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;then configured the email so it can send the voice mail&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;change range for extensions to fit your need&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;make you extensions and make sure it’s type is SIP&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;connect your telephone if there also from grandstream it can auto connect&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;connect them to the extensions &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;configure your anolag trunk&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;configure outbound routes&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;configure inbound routes&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 </description>
@@ -46,6 +80,8 @@ here is what we did&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;http://ahar411.github.io//assets/download.jpg&quot; alt=&quot;exam statistics&quot; title=&quot;exam statistics&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;exam statistics!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;ts3server://ts.ksaserver.us?channel=%5Bcspacer528%5D%E2%95%94%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E0%B9%91%2A%DB%9E%2A%E0%B9%91%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%97%2FWelcome&amp;amp;server_uid=3ix9fuGqnUlIuspZFW6Q7yU2ujM%3D&quot;&gt;Invitation&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 10 Jul 2014 11:11:29 +0000</pubDate>
         <link>http://ahar411.github.io//2014/07/10/python-course-progress/</link>
