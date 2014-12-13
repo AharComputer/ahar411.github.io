@@ -6,14 +6,28 @@ permalink: /contact/
 
 E-Mail: abdullah@ahar.sa
 
-Github: [ahar411](https://github.com/ahar411)
+Phone: +966543111350
 
-Twitch: [ahar4](http://www.twitch.tv/ahar4)
+Skype: aka-ahar
+
+youtube: [ahar11](http://www.youtube.com/c/ahar11/)
+
+Google+: google.com/+ahar11
+
+Twitter: [ahar411](https://twitter.com/ahar411)
+
+Player.me: [ahar_computer](https://player.me/ahar_computer)
 
 Steam: [ahar_computer](http://steamcommunity.com/id/ahar_computer)
 
+FaceBook: [Abdullah Al Rashed](https://www.facebook.com/abdullah.ahar.alrashed)
+
+Twitch: [ahar4](http://www.twitch.tv/ahar4)
+
+Github: [ahar411](https://github.com/ahar411)
+
+MinecraftFourms: [ahar411](http://www.minecraftforum.net/members/ahar411)
+
 Playstation Network: ahar_computer
 
-youtube: <http://www.youtube.com/user/ahar11/>
-
-<a href="http://www.overwolf.com/?utm_source=forums&utm_medium=signatures&utm_campaign=signature%2Bin%2Bforums"><img alt="Overwolf Signature" src="http://api.overwolf.com/users/Signature/ahar_computer_gameplay.png" style="border: none;"></a>
+Ask: [ahar](ask.fm/ahar)
