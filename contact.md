@@ -12,7 +12,7 @@ Skype: aka-ahar
 
 youtube: [ahar11](http://www.youtube.com/c/ahar11/)
 
-Google+: google.com/+ahar11
+Google+: [ahar11](google.com/+ahar11)
 
 Twitter: [ahar411](https://twitter.com/ahar411)
 
@@ -30,4 +30,4 @@ MinecraftFourms: [ahar411](http://www.minecraftforum.net/members/ahar411)
 
 Playstation Network: ahar_computer
 
-Ask: [ahar](ask.fm/ahar)
+Ask: [ahar](http://www.ask.fm/ahar)
