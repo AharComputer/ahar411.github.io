@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-My name is Abdullah Al-rashed im at 10th grade 
+My name is Abdullah Al-rashed im at 11th grade 
 
-I like puzzling video games 
+I'm a weird person who likes games but I wouldn't call myself a gamer I'm not a casual gamer but not a hardcore gamer either
 
-My favorite colors are black,grey and cyan 
+I like mind binding and puzzling games
 
-My favorite number is 9973 
+English is my second language my main language is Arabic
 
-I dislike FPS and RTS games
+My favorite number is 9973
+
+My favorite color is cyan my favorite color combination id black and blue or white
+
+I have a bad habit of starting thing but never ...
