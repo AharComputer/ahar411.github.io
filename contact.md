@@ -16,7 +16,7 @@ youtube: [ahar11](http://www.youtube.com/c/ahar11/)
 
 Google+: [ahar11](http://www.google.com/+ahar11)
 
-Twitter: [ahar411](https://twitter.com/ahar_computer)
+Twitter: [ahar_computer](https://twitter.com/ahar_computer)
 
 Player.me: [ahar_computer](https://player.me/ahar_computer)
 
