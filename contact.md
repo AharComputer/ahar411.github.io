@@ -24,7 +24,7 @@ Steam: [ahar_computer](http://steamcommunity.com/id/ahar_computer)
 
 FaceBook: [Abdullah Al Rashed](https://www.facebook.com/abdullah.ahar.alrashed)
 
-Twitch: [ahar4](http://www.twitch.tv/ahar4)
+Twitch: [ahar_computer](http://www.twitch.tv/ahar_computer/profile)
 
 Github: [ahar411](https://github.com/ahar411)
 
