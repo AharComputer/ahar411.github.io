@@ -14,7 +14,7 @@ Skype: aka-ahar
 
 youtube: [ahar11](http://www.youtube.com/c/ahar11/)
 
-Google+: [ahar11](http://www.google.com/+ahar11)
+Google+: <a href="https://plus.google.com/ahar11" rel="publisher"></a>
 
 Twitter: [ahar_computer](https://twitter.com/ahar_computer)
 
