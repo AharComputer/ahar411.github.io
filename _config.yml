@@ -11,4 +11,7 @@ username: "ahar411"
 # Build settings
 markdown: kramdown
 permalink: pretty
- 
+
+
+gems:
+    - jekyll-sitemap
