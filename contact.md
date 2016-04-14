@@ -6,7 +6,7 @@ permalink: /contact/
 
 <link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon" />
 
-E-Mail: abdullah@ahar.sa
+E-Mail: abdullah[at]ahar.sa
 
 Phone: +966543111350
 
