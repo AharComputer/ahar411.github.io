@@ -15,3 +15,5 @@ permalink: pretty
 
 gems:
     - jekyll-sitemap
+
+theme: jekyll-theme-cayman
